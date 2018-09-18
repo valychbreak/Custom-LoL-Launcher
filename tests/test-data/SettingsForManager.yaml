@@ -1,0 +1,7 @@
+install:
+  globals:
+    locale: en_US
+    region: EUNE
+  login-remember-me:
+    rememberMe: true
+    username: valych

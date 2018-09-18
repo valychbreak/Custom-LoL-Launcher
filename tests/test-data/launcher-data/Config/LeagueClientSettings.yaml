@@ -1,0 +1,38 @@
+install:
+  game-settings:
+    accountId: 201060763
+    modified: false
+    timestamp: 1537209807900
+  gameflow-patcher-lock: null
+  gameflow-process-info: null
+  gameflow-spectate-reconnect-info: null
+  globals:
+    locale: en_GB
+    region: EUNE
+  icon_version: 2
+  last-valid-login-splash:
+    theme: odyssey2018
+    version: '1.39'
+  lcu-settings:
+    accountId: 201060763
+    modified: false
+    timestamp: 1537208088866
+  licensesAgreedTo:
+    2EE5B46C10EE4E11CEB43DEB2756EF65: null
+    4F039B7708ED4333FA6715B86A2FE534: null
+    669805AFB549049B0BC076CAE84983F7: null
+    C316223E0402D00F535E0E41CAD27ECE: null
+  login-remember-me:
+    rememberMe: true
+    username: valych
+  npe-splash:
+    enableNewPlayerSplash: false
+  perks-settings:
+    accountId: 201060763
+    modified: false
+    timestamp: 1537208089096
+  rso-auth:
+    install-identifier: 150459223d65914281aafe9db7487ed7
+  telemetry:
+    fresh_installation: false
+    installation_id: fjJ5nw==
